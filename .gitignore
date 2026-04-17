@@ -1,0 +1,10 @@
+# Ignore .env
+.env
+
+# Ignore Python cache folders
+__pycache__/
+_pycache_/
+pycache/
+
+# Ignore your vector DB folder
+vector_db_index/
